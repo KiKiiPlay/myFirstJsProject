@@ -13,7 +13,7 @@ console.log(
   agedGratedPecorinoRomanoCheese,
   "g"
 );
-console.log("rawBlackPepper:", rawBlackPepper, "g");
+console.log("Raw Black Pepper:", rawBlackPepper, "g");
 
 console.log("---------Cooking must begin---------");
 
